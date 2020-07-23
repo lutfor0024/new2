@@ -1,3 +1,4 @@
 var x=10
 var y=5
-console.log(x+y)
+var v=Math.max(x,y)
+console.log(v)
